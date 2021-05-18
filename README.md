@@ -5,12 +5,11 @@
 
 
 * Language : Python
-
-
-* Implementation using OOPS concepts.
   
   
 * Features :
+
+  - Implementation using OOPS concepts.
 
   - Classes : state and country.
   
@@ -31,12 +30,12 @@
       * Comparision by state_id given by the user.
       
  
-* Main : 
-  
-  - Number of state objects.
-  
-  - Inputs by the user.
-  
-  - check condition for number of lockdown weeks' values.
-  
-  - Expected Output.
+  - Main : 
+
+    * Number of state objects.
+
+    * Inputs by the user.
+
+    * check condition for number of lockdown weeks' values.
+
+    * Expected Output.
