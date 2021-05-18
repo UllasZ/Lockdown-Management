@@ -1,5 +1,7 @@
 # Lockdown-Management
 
+--> [Run main.py]
+
 
 * This is case study on lockdown management.
 
